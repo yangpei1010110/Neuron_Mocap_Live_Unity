@@ -15,7 +15,7 @@ public static class MocapApiManager
     {
         get
         {
-            return IsConnectFailed;
+            return isConnectFailed;
         }
     }
 
